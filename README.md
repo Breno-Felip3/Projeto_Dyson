@@ -1,7 +1,7 @@
 # Projeto Dyson
 
 
-![Capa do Projeto](https://cdn.discordapp.com/attachments/756694819098853509/897991401470578729/unknown.png)
+![Capa do Projeto](https://cdn.discordapp.com/attachments/756694819098853509/897992247994384444/R.png)
 
 # Sobre o Projeto
 
