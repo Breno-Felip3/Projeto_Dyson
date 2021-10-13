@@ -1,7 +1,7 @@
 # Projeto Dyson
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://cdn.discordapp.com/attachments/756694819098853509/897991401470578729/unknown.png)
 
 # Sobre o Projeto
 
