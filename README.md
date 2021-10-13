@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Neste Projeto nós iremos burcas meio de resolver ou amenizar os problemas relacionados à falta de meios para a Energia Renovavel!
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
