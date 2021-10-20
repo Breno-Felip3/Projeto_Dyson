@@ -66,8 +66,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	<sub><b>euovinicius</b></sub>
 	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
-	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">�
-	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠</a></td>
+
 <table>
 	
 # Licença
