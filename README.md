@@ -58,7 +58,18 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
 <table>
-
+<table>
+<td align="center">
+	<a href="https://github.com/euovinicius">
+	<img src="https://avatars.githubusercontent.com/u/89489025?s=400&u=a20f6126b3cbef98ccdfbab897fe0c3e82304715&v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/euovinicius">	
+	<sub><b>Simonera2</b></sub>
+	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
+	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
+<table>
+	
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
