@@ -6,6 +6,8 @@
 # Sobre o Projeto
 
 Neste Projeto nós iremos burcas meio de resolver ou amenizar os problemas relacionados à falta de meios para a Energia Renovavel!
+ <a href="https://docs.google.com/viewer?url=https://cdn.discordapp.com/attachments/853716840232648774/902273895569170482/SBC.pdf">	
+	<sub><b>link</b></sub>
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
