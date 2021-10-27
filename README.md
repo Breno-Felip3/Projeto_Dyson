@@ -48,7 +48,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-
+[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 <table>
 <td align="center">
 	<a href="https://github.com/Simonera2">
@@ -79,6 +79,15 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
 	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
+	
+<td align="center">
+	<a href="https://github.com/VictoriaEmilly">
+	<img src="https://avatars.githubusercontent.com/u/89431047?v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/VictoriaEmilly">	
+	<sub><b>VictoriaEmilly</b></sub>
+	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation"
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests"></a></td>
 <table>
 	
 # Licença
