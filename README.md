@@ -1,7 +1,7 @@
 # Data Centers Auto Sustentáveis
 
 
-![Capa do Projeto](https://cdn.discordapp.com/attachments/896929852324716547/897994959188291634/ien.jpg)
+![Capa do Projeto](https://cdn.discordapp.com/attachments/853716840232648774/902991990235488256/WhatsApp_Image_2021-10-25_at_14.31.32.jpeg)
 
 # Sobre o Projeto
 
