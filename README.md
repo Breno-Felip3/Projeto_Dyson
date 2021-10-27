@@ -21,7 +21,6 @@ Neste Projeto, nós iremos buscar meios para resolver ou amenizar os problemas r
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
 
 
 # Requisitos Funcionais 
