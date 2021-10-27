@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Neste Projeto nós iremos burcas meio de resolver ou amenizar os problemas relacionados à falta de meios para a Energia Renovavel!
+Neste Projeto, nós iremos buscar meios para resolver ou amenizar os problemas relacionados ao auto consumo de energia por parte de alocação de servidores físicos e também a sua manutenibilidade por parte das empresas. 
 <td align="center"> <a href="https://docs.google.com/viewer?url=https://cdn.discordapp.com/attachments/853716840232648774/902273895569170482/SBC.pdf">	
 	<sub><b>Link Do Resumo Sobre o Projeto</b></sub></td>
 
@@ -27,20 +27,8 @@ Neste Projeto nós iremos burcas meio de resolver ou amenizar os problemas relac
 
 # Requisitos Funcionais 
 
-- [ ] **Cadastrar Usuário**
-- [ ] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
-
-# Tecnologias Usadas
-
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [ ] ** **
+- [ ] ****
 
 # Contribuição
 
