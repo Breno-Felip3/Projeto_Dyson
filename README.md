@@ -21,6 +21,7 @@ Neste Projeto, nós iremos buscar meios para resolver ou amenizar os problemas r
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
+* [Agradecimentos](#agradecimentos)
 
 
 # Requisitos Funcionais 
@@ -74,6 +75,26 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation"
 	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests"></a></td>
+	
+<td align="center">
+	<a href="https://github.com/Marumii">
+	<img src="https://avatars.githubusercontent.com/u/89428033?v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/Marumii">	
+	<sub><b>Lucas Barreto</b></sub>
+	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
+	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
+	
+	<td align="center">
+	<a href="https://github.com/Marumii">
+	<img src="https://avatars.githubusercontent.com/u/89428033?v=4" width="100px;" alt=""/><br />
+	<a href="https://github.com/Marumii">	
+	<sub><b>Lucas Barreto</b></sub>
+	</a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Code">💻
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Documentation">📖
+	</a> <a href="#infra-kentcdodds" title="Infrastructure (Hosting, Build-Tools, etc)">🚇
+	</a> <a href="https://github.com/testing-library/react-testing-library/commits?author=kentcdodds" title="Tests">⚠️</a></td>
 <table>
 	
 # Licença
